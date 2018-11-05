@@ -12,7 +12,8 @@ Journal of Open Source Software, 2(9).
 
 The library includes multiple methods. For a good review of sensitivity analysis methods, I suggest this paper:
 ```
-Pianosi, Francesca, et al. "Sensitivity analysis of environmental models: A systematic review with practical workflow." Environmental Modelling & Software 79 (2016): 214-232.
+Pianosi, Francesca, et al. "Sensitivity analysis of environmental models: A systematic review with 
+practical workflow." Environmental Modelling & Software 79 (2016): 214-232.
 ```
 
 The tutorial will introduce some theory behind global sensitivity analysis, with a focus on the Sobol method. This will be demonstrated on a simple test function, followed by a discussion of frequently asked questions for interpreting the results.
